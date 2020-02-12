@@ -1,5 +1,6 @@
 **DML**-> Data Manipulation Language / Lenguaje de Manipulacion de Datos.  
-**SELECT**-> Indica lo que se quiere extraer de una base de datos. (```sql SELECT actor.name```)  
+**SELECT**-> Indica lo que se quiere extraer de una base de datos. (```sql
+SELECT actor.name```)  
 **FROM**-> Indica de que tabla o tablas se extraen los elementos indicados en el **SELECT**. (```FROM actor```)  
 **WHERE**-> Indica una condición que debe cumplirse para que se puedan extraer los elementos del **SELECT**. (```WHERE age=30```)  
 
